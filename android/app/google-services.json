@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848446032391",
+    "project_id": "findmua-462b6",
+    "storage_bucket": "findmua-462b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848446032391:android:82d88d581d0b5a5673f8a2",
+        "android_client_info": {
+          "package_name": "com.example.findmua"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzqj05zXH-LmNkPJ094t0oVpUL-cGct6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
